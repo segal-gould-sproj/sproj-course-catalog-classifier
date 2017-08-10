@@ -1,6 +1,6 @@
 # Course Catalog Classifier
 ### A part of my Senior Project
-Using Scikit-learn to classify courses by department, and then use predict the probabilties of potential future course descriptions.
+Using Scikit-learn to classify courses by department and predict the probabilties of potential future course descriptions.
 
 The project will have three parts:
 * Web-scraping course catalogs ✔️
