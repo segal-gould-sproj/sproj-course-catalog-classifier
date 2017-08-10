@@ -1,0 +1,66 @@
+******************** Test Starting ********************
+Testing on string: "language"
+Number of courses in training set: 3028
+Department    Classification Likelihood
+------------  ---------------------------
+music         11.6%
+japanese      8.4%
+spanish       7.5%
+theater       7.1%
+russian       5.6%
+******************** Test Complete ********************
+******************** Test Starting ********************
+Testing on string: "freedom"
+Number of courses in training set: 3028
+Department        Classification Likelihood
+----------------  ---------------------------
+theater           22.6%
+dance             17.6%
+politicalstudies  14.3%
+lit2courses       9.9%
+philosophy        8.0%
+******************** Test Complete ********************
+******************** Test Starting ********************
+Testing on string: "science"
+Number of courses in training set: 3028
+Department    Classification Likelihood
+------------  ---------------------------
+mathematics   17.4%
+psychology    11.9%
+philosophy    10.0%
+computer      7.1%
+history       5.8%
+******************** Test Complete ********************
+******************** Test Starting ********************
+Testing on string: "death"
+Number of courses in training set: 3028
+Department    Classification Likelihood
+------------  ---------------------------
+philosophy    15.0%
+history       11.3%
+lit2courses   9.6%
+psychology    8.7%
+religion      8.5%
+******************** Test Complete ********************
+******************** Test Starting ********************
+Testing on string: "taxes"
+Number of courses in training set: 3028
+Department        Classification Likelihood
+----------------  ---------------------------
+economics         68.4%
+politicalstudies  7.1%
+chemistry         1.3%
+physics           1.2%
+dance             1.1%
+******************** Test Complete ********************
+******************** Test Starting ********************
+Testing on string: "Twitter"
+Number of courses in training set: 3028
+Department    Classification Likelihood
+------------  ---------------------------
+writers       34.2%
+sociology     20.7%
+lit2courses   12.2%
+chemistry     1.8%
+physics       1.6%
+******************** Test Complete ********************
