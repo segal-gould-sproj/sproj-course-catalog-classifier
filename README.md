@@ -10,3 +10,7 @@ The project will have three parts:
 Although not an initial goal of the project, text classification was something I used on my [Moderation Project](https://github.com/segalgouldn/segal-gould-moderation) so I thought it would be interesting to try it again.
 
 This project was partially inspired by [@sabo](https://github.com/sabo).
+
+### Related Repositories:
+* [Course Catalog Parser](https://github.com/segalgouldn/sproj-course-catalog-parser)
+* [Course Catalog Server](https://github.com/segalgouldn/sproj-course-catalog-server)
