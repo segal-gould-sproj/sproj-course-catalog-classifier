@@ -1,5 +1,4 @@
 # Course Catalog Classifier
-### A part of my Senior Project
 Using Scikit-learn to classify courses by department and predict the probabilities of potential future course descriptions.
 
 The project will have three parts:
@@ -12,5 +11,5 @@ Although not an initial goal of the project, text classification was something I
 This project was partially inspired by [@sabo](https://github.com/sabo).
 
 ### Related Repositories:
-* [Course Catalog Parser](https://github.com/segalgouldn/sproj-course-catalog-parser)
-* [Course Catalog Server](https://github.com/segalgouldn/sproj-course-catalog-server)
+* [Course Catalog Parser](https://github.com/segalgouldn/course-catalog-parser)
+* [Course Catalog Server](https://github.com/segalgouldn/course-catalog-server)
